@@ -1,6 +1,20 @@
 # ВЪВЕДЕНИЕ В ПРОРГАМИРАНЕТО 
 Това хранилище служи като централизирана колекция от всички задания и задачи, които са задавани и обсъждани по време на семинарните упражнения на група 47б.
 ## Бърз преглед:
+
+<details>
+<summary>Семинарно упражнение 28.10.2025</summary>
+  
+- Описание: Създаване на приложения с използване на
+сложни данни: добавяне, изтриване и промяна на списък, търсене в
+списък, множество, работа с речник
+
+- Задачи: https://github.com/ERKeserdzhieva20/vp-su/blob/main/Documents/upr%20python%204.pdf
+  
+- Фаилове:
+https://github.com/ERKeserdzhieva20/vp-su/blob/b64f2c9239a9365e79e5b88f0494d702e5a1858b/PyCharmMiscProject/04_upr.py#L1-L336
+</details>
+  
 <details>
 <summary>Семинарно упражнение 21.10.2025</summary>
   
@@ -10,7 +24,7 @@
 - Задачи: https://github.com/ERKeserdzhieva20/vp-su/blob/main/Documents/upr%20python%203.pdf
 
 - Фаилове:
-https://github.com/ERKeserdzhieva20/vp-su/blob/1564105cd899d7d519463b0b6e95f43c0bd42166/PyCharmMiscProject/script2.py#L1-L42
+https://github.com/ERKeserdzhieva20/vp-su/blob/b64f2c9239a9365e79e5b88f0494d702e5a1858b/PyCharmMiscProject/03_upr.py#L1-L52
 </details>
 <details>
 <summary>Семинарно упражнение 14.10.2025</summary>
@@ -19,6 +33,6 @@ https://github.com/ERKeserdzhieva20/vp-su/blob/1564105cd899d7d519463b0b6e95f43c0
 - Задачи: https://github.com/ERKeserdzhieva20/vp-su/blob/main/Documents/upr%20python%20_2.pdf
 
 - Фаилове:
-https://github.com/ERKeserdzhieva20/vp-su/blob/1564105cd899d7d519463b0b6e95f43c0bd42166/PyCharmMiscProject/script.py#L1-L76
+https://github.com/ERKeserdzhieva20/vp-su/blob/b64f2c9239a9365e79e5b88f0494d702e5a1858b/PyCharmMiscProject/02_upr.py#L1-L82
 
 </details>
