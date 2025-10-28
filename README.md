@@ -11,7 +11,7 @@
 
 - Задачи: https://github.com/ERKeserdzhieva20/vp-su/blob/main/Documents/upr%20python%204.pdf
   
-- Фаилове:
+- Файлове:
 https://github.com/ERKeserdzhieva20/vp-su/blob/b64f2c9239a9365e79e5b88f0494d702e5a1858b/PyCharmMiscProject/04_upr.py#L1-L336
 </details>
   
@@ -23,7 +23,7 @@ https://github.com/ERKeserdzhieva20/vp-su/blob/b64f2c9239a9365e79e5b88f0494d702e
 
 - Задачи: https://github.com/ERKeserdzhieva20/vp-su/blob/main/Documents/upr%20python%203.pdf
 
-- Фаилове:
+- Файлове:
 https://github.com/ERKeserdzhieva20/vp-su/blob/b64f2c9239a9365e79e5b88f0494d702e5a1858b/PyCharmMiscProject/03_upr.py#L1-L52
 </details>
 <details>
@@ -32,7 +32,7 @@ https://github.com/ERKeserdzhieva20/vp-su/blob/b64f2c9239a9365e79e5b88f0494d702e
 - Описание: Оператори за разклонения и цикли. Разработване на програми с разклонена и циклична структура. Съставяне и настройка на програми с основните видове цикли върху потокови данни. Оператори за цикъл (while,  for)
 - Задачи: https://github.com/ERKeserdzhieva20/vp-su/blob/main/Documents/upr%20python%20_2.pdf
 
-- Фаилове:
+- Файлове:
 https://github.com/ERKeserdzhieva20/vp-su/blob/b64f2c9239a9365e79e5b88f0494d702e5a1858b/PyCharmMiscProject/02_upr.py#L1-L82
 
 </details>
