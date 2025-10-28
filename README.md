@@ -6,7 +6,9 @@
   
 - Описание: Съставяне, въвеждане и настройка на програми,
 илюстриращи операциите в езика и основните типове данни
-  
+
+- Задачи: https://github.com/ERKeserdzhieva20/vp-su/blob/main/Documents/upr%20python%203.pdf
+
 - Фаилове:
 https://github.com/ERKeserdzhieva20/vp-su/blob/1564105cd899d7d519463b0b6e95f43c0bd42166/PyCharmMiscProject/script2.py#L1-L42
 </details>
@@ -14,6 +16,7 @@ https://github.com/ERKeserdzhieva20/vp-su/blob/1564105cd899d7d519463b0b6e95f43c0
 <summary>Семинарно упражнение 14.10.2025</summary>
   
 - Описание: Оператори за разклонения и цикли. Разработване на програми с разклонена и циклична структура. Съставяне и настройка на програми с основните видове цикли върху потокови данни. Оператори за цикъл (while,  for)
+- Задачи: https://github.com/ERKeserdzhieva20/vp-su/blob/main/Documents/upr%20python%20_2.pdf
 
 - Фаилове:
 https://github.com/ERKeserdzhieva20/vp-su/blob/1564105cd899d7d519463b0b6e95f43c0bd42166/PyCharmMiscProject/script.py#L1-L76
