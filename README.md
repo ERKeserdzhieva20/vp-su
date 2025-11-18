@@ -1,7 +1,21 @@
 # ВЪВЕДЕНИЕ В ПРОРГАМИРАНЕТО 
 Това хранилище служи като централизирана колекция от всички задания и задачи, които са задавани и обсъждани по време на семинарните упражнения на група 47б.
 ## Бърз преглед:
+<details>
+<summary>Семинарно упражнение 18.11.2025</summary>
+  
+- Описание: Създаване на програми с класове и обекти. Наследяване.
 
+
+- Задачи:
+  https://github.com/ERKeserdzhieva20/vp-su/blob/2072ed8481ec8e189c651834fe862da0d9e4ee1c/Documents/upr%20python%206.pdf
+  
+- Файлове:
+https://github.com/ERKeserdzhieva20/vp-su/blob/2072ed8481ec8e189c651834fe862da0d9e4ee1c/PyCharmMiscProject/06_upr.py#L1-L173
+</details>
+
+
+  
 <details>
 <summary>Семинарно упражнение 11.11.2025</summary>
   
