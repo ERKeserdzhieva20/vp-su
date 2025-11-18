@@ -2,6 +2,18 @@
 Това хранилище служи като централизирана колекция от всички задания и задачи, които са задавани и обсъждани по време на семинарните упражнения на група 47б.
 ## Бърз преглед:
 
+<details>
+<summary>Семинарно упражнение 11.11.2025</summary>
+  
+- Описание: Разработка на програми с използване на функции. Предаване на параметри. Връщане на резултат. Стойност по
+подразбиране. 
+
+
+- Задачи: https://github.com/ERKeserdzhieva20/vp-su/blob/57ed7f91c646a6d0a6246ab595feaf3bcccf5b50/Documents/upr%20python%205.pdf
+  
+- Файлове:
+https://github.com/ERKeserdzhieva20/vp-su/blob/57ed7f91c646a6d0a6246ab595feaf3bcccf5b50/PyCharmMiscProject/05_upr.py#L1-L140
+</details>
 
 <details>
 <summary>Семинарно упражнение 04.11.2025</summary>
